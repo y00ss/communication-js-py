@@ -1,6 +1,6 @@
 const spawner = require('child_process').spawn;
 
-let path_py = 'py_process.py';
+let path_py = '../py/py_process.py';
 
 /*
 // STRING
